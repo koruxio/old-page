@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fix GitHub Support for password authentication error using Personal Access Token."
+subtitle: ""
 background: '/img/posts/fix-github-password-auth/bg.jpeg'
 ---
 
