@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Setup Touchpad Gestures in your Ubuntu"
+title: "How to Setup Touchpad Gestures in Ubuntu"
 subtitle: ""
 background: ''
 ---
