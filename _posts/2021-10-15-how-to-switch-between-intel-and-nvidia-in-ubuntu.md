@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Switch Between Intel and Nvidia Graphics Card on Ubuntu"
+title: "How To Switch Between Nvidia and Non-Nvidia Graphics Card on Ubuntu"
 subtitle: ""
 background: ''
 ---
